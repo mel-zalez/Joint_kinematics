@@ -8,6 +8,6 @@ Following DeepLabCut joint tracking, fill out video information in Excel file an
 
 Following forelimb and hindlimb paw tracking with Digigait software, use get_locomotion_param_for_filed_files.m to extract stance and swing indices per paw per step cycle. Fill out video information in Excel file and use organize_DigiGait_data_into_cell_all_steps_fixed_files.m to organize stance and swing indeces for experimental and control mice at varied speeds and use plot_gait_transition_new_fixed_files.m to plot gait transitions with respective attraction and persistance. 
 
-#generate density and contour plots 
+# generate density and contour plots 
 
 Per experiment, generate topographical overlap of dual inputs given the coordinates of the spinal cord segment outline and the coordinates of the spots within the outline. 
