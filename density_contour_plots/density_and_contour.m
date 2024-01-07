@@ -1,5 +1,5 @@
 
-% experiment = 'PVFlpO;Lbx1Cre;Ai65' %or 'PVTdTomato';
+% experiment = 'PVFlpO;Lbx1Cre;Ai65' %or 'PVTdTomato'; 
 % addpath(genpath('V:\Nofar\Rostrocudal analysis\final spreadsheets for rostrocaudal analysis'))
 function  density_and_contour(experiment)
 
