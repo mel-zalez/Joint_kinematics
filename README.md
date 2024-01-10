@@ -1,4 +1,6 @@
 # Joint_kinematics
+[![DOI](https://zenodo.org/badge/739905145.svg)](https://zenodo.org/doi/10.5281/zenodo.10480138)
+
 
 # calculate joint angles
 
